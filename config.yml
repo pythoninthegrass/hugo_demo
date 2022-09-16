@@ -1,4 +1,4 @@
-baseURL: "https://dulcet-gingersnap-2bfffe.netlify.app"
+baseURL: "/"
 languageCode: en-us
 title: Hugo Demo
 theme: PaperMod
